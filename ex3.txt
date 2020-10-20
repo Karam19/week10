@@ -1,0 +1,11 @@
+> touch _ex3.txt
+> chmod a-x _ex3.txt
+> chmod u+rwx _ex3.txt
+> chmod o+rwx _ex3.txt
+> chmod g+rwx _ex3.txt
+> ls -l _ex3.txt
+-rwxrwxrwx 1 karam karam   0 Oct 20 14:43 _ex2.txt
+
+660 is equal in binary system to 110 110 000 = (user: rw-),(group: rw-),(others: ---)
+775 is equal in binary system to 111 111 101 = (user: rwx),(group: rwx),(others: r-x)
+777 is equal in binary system to 111 111 111 = (user: rwx),(group: rwx),(others: rwx)
