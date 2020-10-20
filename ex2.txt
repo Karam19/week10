@@ -1,0 +1,7 @@
+total 4.0k
+12666373952103415 -rw------- 3 karam karam   0 Oct 20 14:30 _ex1.txt
+12666373952103415 -rw------- 3 karam karam   0 Oct 20 14:30 _ex1_1.txt
+12666373952103415 -rw------- 3 karam karam   0 Oct 20 14:30 _ex1_2.txt
+13229323905620997 -rw------- 1 karam karam 416 Oct 20 14:31 ex1.txt
+13229323905621016 -rw------- 2 karam karam   0 Oct 20 14:31 _ex2.txt
+13229323905621024 -rw------- 1 karam karam   0 Oct 20 14:31 ex2.txt
